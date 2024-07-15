@@ -1,8 +1,14 @@
 # GREENTHREADS
 
+#Sustainable Clothing Site: Our Solution 
+
+Our solution centers on the creation of a website ‘Green Threads’ where users can access environmental performance scores for fashion brands, empowering them to make informed, sustainable purchasing decisions. Through this platform, users will earn reward points based on the sustainability of their purchases, incentivizing eco-friendly consumption habits. By providing transparent data on brands' environmental practices and rewarding sustainable choices, our website aims to drive awareness and adoption of sustainable fashion practices, contributing to a reduction in the fashion industry's environmental footprint and fostering a more conscientious consumer culture globally
+
+
 # Sustainable Clothing Site: Future ML Model Integration
 
 ## Overview
+##(This is something we aim to accomplish in the near future but weren't able to integrate right now due to time-constraints)
 
 This Flask application demonstrates how a machine learning model can be integrated into our sustainable clothing site in the future to predict sustainability points for clothing items based on their features. The application includes functionality to train the model, save it, load it, and use it for predictions. This solution is intended to replace the current JavaScript if-else statements used for generating sustainability points.
 
