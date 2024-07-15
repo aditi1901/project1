@@ -1,0 +1,201 @@
+Cloth Code,Item Name,Type,Material,Brand,Carbon Emissions (kg CO2e),Water Usage (liters),Energy Consumption (kWh),Certifications,Recyclability,Biodegradability,End-of-Life Options,Sustainability Points
+CLOTH-2089,Jacket,Dress,Denim,Brand A,11.9,14680,122,[],True,False,True,30
+CLOTH-9434,Pants,Jacket,Cotton,Brand C,14.51,3422,95,"['RWS', 'OEKO-TEX', 'Fair Trade']",True,True,False,52
+CLOTH-5341,Jacket,Sweater,Silk,Brand D,16.57,14826,146,"['Fair Trade', 'RWS', 'OEKO-TEX', 'GOTS']",True,True,False,20
+CLOTH-1501,Jacket,Shirt,Cotton,Brand D,15.35,9692,119,"['RWS', 'OEKO-TEX', 'GOTS', 'Fair Trade']",True,False,True,24
+CLOTH-2874,Shirt,Shirt,Wool,Brand B,7.75,12683,139,"['GOTS', 'RWS']",False,True,True,47
+CLOTH-4046,Sweater,Pants,Cotton,Brand E,4.19,11385,135,"['Fair Trade', 'OEKO-TEX']",False,True,False,61
+CLOTH-6345,Pants,Sweater,Wool,Brand D,18.76,13156,132,[],True,True,False,16
+CLOTH-2314,Dress,Pants,Wool,Brand A,5.6,9349,36,"['GOTS', 'RWS']",True,False,True,60
+CLOTH-1655,Sweater,Sweater,Denim,Brand C,14.31,2592,182,"['Fair Trade', 'GOTS', 'RWS']",False,False,True,56
+CLOTH-9072,Jacket,Jacket,Denim,Brand A,6.95,13176,42,['RWS'],True,False,True,54
+CLOTH-2514,Dress,Shirt,Wool,Brand C,19.37,9909,85,"['Fair Trade', 'GOTS']",True,False,False,24
+CLOTH-8647,Pants,Pants,Denim,Brand C,11.98,4392,197,"['Fair Trade', 'RWS', 'OEKO-TEX', 'GOTS']",True,True,True,51
+CLOTH-7436,Sweater,Jacket,Wool,Brand D,9.43,7069,165,['OEKO-TEX'],True,False,False,50
+CLOTH-3513,Jacket,Shirt,Silk,Brand E,7.17,12787,143,"['RWS', 'Fair Trade', 'GOTS']",True,True,True,50
+CLOTH-9043,Dress,Shirt,Cotton,Brand B,3.0,1039,189,"['OEKO-TEX', 'Fair Trade', 'GOTS']",True,True,False,89
+CLOTH-3609,Pants,Pants,Cotton,Brand C,5.24,1631,138,[],False,True,True,70
+CLOTH-8521,Jacket,Sweater,Denim,Brand B,7.27,4328,89,"['Fair Trade', 'OEKO-TEX']",True,True,False,66
+CLOTH-2165,Dress,Sweater,Cotton,Brand C,14.45,11385,179,"['GOTS', 'RWS']",False,False,True,30
+CLOTH-8548,Jacket,Sweater,Wool,Brand A,13.9,8961,173,"['Fair Trade', 'GOTS', 'OEKO-TEX']",True,False,True,38
+CLOTH-1734,Dress,Jacket,Cotton,Brand D,13.16,4539,41,[],True,True,False,54
+CLOTH-1009,Jacket,Jacket,Cotton,Brand D,16.17,6679,37,"['GOTS', 'Fair Trade']",True,False,False,39
+CLOTH-8492,Jacket,Jacket,Cotton,Brand A,16.88,10211,168,['GOTS'],True,True,True,18
+CLOTH-8804,Pants,Sweater,Silk,Brand D,17.85,6571,169,"['OEKO-TEX', 'RWS']",False,False,True,30
+CLOTH-1118,Sweater,Jacket,Polyester,Brand D,8.65,10808,191,"['RWS', 'GOTS', 'Fair Trade', 'OEKO-TEX']",True,True,False,50
+CLOTH-3199,Pants,Jacket,Cotton,Brand D,7.43,14075,25,"['Fair Trade', 'RWS', 'GOTS']",True,False,False,55
+CLOTH-5612,Jacket,Shirt,Cotton,Brand D,13.01,2126,81,['GOTS'],True,True,True,61
+CLOTH-5432,Jacket,Shirt,Wool,Brand C,15.83,13233,45,['GOTS'],True,False,False,23
+CLOTH-9227,Pants,Shirt,Polyester,Brand B,13.85,10353,161,"['RWS', 'OEKO-TEX', 'Fair Trade']",True,True,True,35
+CLOTH-5891,Jacket,Sweater,Wool,Brand A,16.51,9239,143,['GOTS'],False,True,False,20
+CLOTH-6515,Shirt,Shirt,Denim,Brand A,15.17,7093,23,"['OEKO-TEX', 'RWS']",True,False,False,29
+CLOTH-3028,Pants,Pants,Silk,Brand E,4.87,1164,80,"['GOTS', 'OEKO-TEX']",True,True,False,91
+CLOTH-2645,Sweater,Dress,Polyester,Brand C,17.64,11078,190,"['Fair Trade', 'RWS', 'GOTS']",False,True,True,18
+CLOTH-9253,Dress,Jacket,Cotton,Brand A,19.14,11231,114,[],False,False,True,13
+CLOTH-5394,Pants,Jacket,Polyester,Brand C,17.72,12402,75,"['Fair Trade', 'GOTS']",False,True,True,20
+CLOTH-3652,Shirt,Pants,Cotton,Brand E,4.36,4959,133,"['GOTS', 'RWS']",True,True,True,79
+CLOTH-3862,Jacket,Jacket,Wool,Brand E,7.09,2673,59,['RWS'],True,True,False,75
+CLOTH-8976,Sweater,Jacket,Silk,Brand D,8.33,8101,17,['GOTS'],False,False,True,57
+CLOTH-9628,Sweater,Dress,Wool,Brand E,18.36,1213,149,['RWS'],True,True,False,42
+CLOTH-3055,Sweater,Sweater,Polyester,Brand D,8.68,3563,36,[],False,True,False,67
+CLOTH-4610,Dress,Pants,Wool,Brand A,8.15,9719,31,"['GOTS', 'RWS', 'OEKO-TEX']",False,True,False,60
+CLOTH-9765,Pants,Pants,Cotton,Brand B,18.94,4320,150,"['Fair Trade', 'OEKO-TEX', 'RWS', 'GOTS']",False,False,False,31
+CLOTH-7099,Sweater,Sweater,Cotton,Brand E,3.83,14636,32,"['OEKO-TEX', 'Fair Trade']",False,False,True,68
+CLOTH-8580,Shirt,Pants,Silk,Brand C,5.44,13133,84,[],True,True,True,50
+CLOTH-4609,Pants,Dress,Wool,Brand A,13.59,5054,127,['GOTS'],False,False,True,44
+CLOTH-5131,Jacket,Shirt,Wool,Brand A,7.3,1542,186,['RWS'],False,True,True,71
+CLOTH-4197,Dress,Dress,Polyester,Brand B,10.59,8600,55,"['RWS', 'GOTS', 'OEKO-TEX', 'Fair Trade']",False,True,True,42
+CLOTH-8185,Shirt,Dress,Silk,Brand B,14.16,1702,185,"['OEKO-TEX', 'Fair Trade', 'GOTS', 'RWS']",False,False,False,56
+CLOTH-9195,Dress,Jacket,Silk,Brand B,5.13,12283,141,[],False,False,True,43
+CLOTH-7283,Jacket,Jacket,Polyester,Brand B,19.83,5966,200,"['OEKO-TEX', 'RWS', 'GOTS', 'Fair Trade']",False,False,False,31
+CLOTH-6801,Dress,Jacket,Wool,Brand D,9.22,9666,147,"['GOTS', 'Fair Trade']",True,True,True,54
+CLOTH-1643,Pants,Shirt,Denim,Brand E,4.23,11524,189,"['OEKO-TEX', 'GOTS', 'Fair Trade']",False,True,False,62
+CLOTH-1625,Sweater,Dress,Silk,Brand D,9.51,2273,77,['OEKO-TEX'],True,False,True,74
+CLOTH-7076,Shirt,Pants,Silk,Brand E,11.41,12355,108,[],False,True,False,29
+CLOTH-8653,Jacket,Jacket,Silk,Brand B,13.13,14493,73,[],True,False,True,33
+CLOTH-5283,Pants,Jacket,Polyester,Brand D,8.73,4543,114,"['OEKO-TEX', 'GOTS', 'RWS', 'Fair Trade']",False,False,False,61
+CLOTH-5716,Dress,Sweater,Silk,Brand C,13.61,6010,40,"['Fair Trade', 'GOTS', 'RWS', 'OEKO-TEX']",True,True,False,58
+CLOTH-7248,Jacket,Dress,Wool,Brand C,11.58,5758,86,"['OEKO-TEX', 'GOTS', 'Fair Trade', 'RWS']",False,False,True,50
+CLOTH-2907,Pants,Sweater,Polyester,Brand E,10.1,7829,162,['Fair Trade'],True,True,False,37
+CLOTH-3214,Sweater,Jacket,Cotton,Brand C,9.48,1963,110,[],True,True,True,72
+CLOTH-9425,Jacket,Dress,Denim,Brand D,5.5,2218,11,"['RWS', 'OEKO-TEX', 'GOTS']",True,True,True,83
+CLOTH-8583,Shirt,Shirt,Denim,Brand C,19.31,8073,85,[],False,False,False,20
+CLOTH-6508,Shirt,Shirt,Polyester,Brand A,16.35,4290,115,"['Fair Trade', 'RWS']",True,False,False,31
+CLOTH-9162,Shirt,Shirt,Polyester,Brand C,10.3,11777,120,"['RWS', 'Fair Trade']",False,True,False,31
+CLOTH-1809,Jacket,Shirt,Polyester,Brand A,14.66,2649,159,[],False,False,False,52
+CLOTH-4471,Jacket,Shirt,Cotton,Brand B,5.03,12060,87,['RWS'],True,True,False,50
+CLOTH-6607,Pants,Shirt,Wool,Brand C,19.07,5444,39,['RWS'],True,False,True,39
+CLOTH-9619,Shirt,Pants,Polyester,Brand A,3.28,5550,180,"['OEKO-TEX', 'GOTS', 'Fair Trade', 'RWS']",False,True,True,79
+CLOTH-7568,Dress,Sweater,Denim,Brand E,12.11,3720,148,['OEKO-TEX'],True,False,True,46
+CLOTH-3674,Sweater,Jacket,Denim,Brand D,3.01,6446,86,"['GOTS', 'Fair Trade', 'OEKO-TEX', 'RWS']",True,False,False,81
+CLOTH-1001,Pants,Sweater,Cotton,Brand C,2.76,9661,165,"['RWS', 'GOTS', 'Fair Trade']",False,True,False,67
+CLOTH-4481,Shirt,Pants,Cotton,Brand D,8.62,7572,149,"['GOTS', 'OEKO-TEX', 'Fair Trade']",False,False,True,51
+CLOTH-9978,Jacket,Jacket,Denim,Brand C,10.05,8330,107,"['Fair Trade', 'OEKO-TEX', 'GOTS']",False,True,False,37
+CLOTH-9923,Jacket,Dress,Denim,Brand C,17.84,2106,171,[],True,False,False,39
+CLOTH-2137,Dress,Sweater,Cotton,Brand D,9.63,6844,72,[],True,True,False,64
+CLOTH-4809,Shirt,Dress,Silk,Brand D,9.97,2458,164,"['RWS', 'GOTS', 'OEKO-TEX']",False,True,False,72
+CLOTH-9252,Shirt,Pants,Denim,Brand B,18.85,11105,40,"['Fair Trade', 'OEKO-TEX']",False,True,False,24
+CLOTH-1912,Jacket,Sweater,Denim,Brand C,10.4,9277,58,"['GOTS', 'OEKO-TEX', 'RWS']",False,False,True,39
+CLOTH-8279,Shirt,Jacket,Cotton,Brand A,14.52,2752,101,[],True,False,False,54
+CLOTH-3300,Dress,Dress,Denim,Brand D,8.48,2564,121,"['GOTS', 'RWS']",True,False,True,72
+CLOTH-9948,Pants,Shirt,Wool,Brand B,14.91,10178,129,"['GOTS', 'Fair Trade']",True,False,True,32
+CLOTH-6121,Dress,Shirt,Denim,Brand E,2.18,3178,63,"['Fair Trade', 'GOTS', 'RWS', 'OEKO-TEX']",False,True,False,81
+CLOTH-6139,Shirt,Dress,Silk,Brand D,16.72,5634,170,"['Fair Trade', 'OEKO-TEX', 'RWS']",True,True,True,35
+CLOTH-2505,Pants,Pants,Polyester,Brand C,17.96,13693,192,"['RWS', 'OEKO-TEX', 'Fair Trade']",False,True,True,18
+CLOTH-2691,Dress,Dress,Silk,Brand A,6.6,2711,144,['GOTS'],False,True,False,70
+CLOTH-1819,Shirt,Jacket,Silk,Brand D,10.41,14555,157,[],False,False,True,28
+CLOTH-7355,Sweater,Shirt,Denim,Brand E,9.68,10879,82,"['Fair Trade', 'RWS', 'GOTS']",False,True,True,51
+CLOTH-9981,Dress,Jacket,Wool,Brand D,9.55,9083,52,['OEKO-TEX'],False,True,True,54
+CLOTH-9257,Sweater,Pants,Denim,Brand E,14.91,13429,79,[],True,False,True,33
+CLOTH-4178,Jacket,Shirt,Denim,Brand E,5.23,10181,92,['Fair Trade'],True,True,True,51
+CLOTH-6800,Jacket,Sweater,Wool,Brand A,14.63,1108,141,"['RWS', 'GOTS']",True,False,True,57
+CLOTH-3252,Dress,Jacket,Wool,Brand A,2.53,11272,186,"['RWS', 'OEKO-TEX']",False,False,False,59
+CLOTH-5553,Shirt,Jacket,Polyester,Brand C,9.13,13712,45,"['GOTS', 'OEKO-TEX', 'RWS', 'Fair Trade']",True,True,False,58
+CLOTH-6172,Pants,Shirt,Wool,Brand A,12.13,8016,54,"['RWS', 'Fair Trade', 'GOTS']",True,True,False,42
+CLOTH-7501,Sweater,Sweater,Silk,Brand D,15.62,10129,67,['RWS'],True,True,True,21
+CLOTH-6184,Jacket,Pants,Silk,Brand E,17.61,4713,82,"['OEKO-TEX', 'GOTS']",True,False,False,34
+CLOTH-9494,Pants,Dress,Wool,Brand E,7.6,9358,94,[],True,True,False,54
+CLOTH-3828,Shirt,Shirt,Denim,Brand A,15.37,10647,169,"['GOTS', 'Fair Trade', 'OEKO-TEX']",True,False,False,17
+CLOTH-5638,Shirt,Jacket,Denim,Brand C,4.47,7572,121,"['GOTS', 'RWS']",False,True,True,67
+CLOTH-2690,Pants,Dress,Polyester,Brand C,15.23,2825,92,[],False,False,True,41
+CLOTH-7976,Shirt,Pants,Wool,Brand E,18.64,7388,117,"['OEKO-TEX', 'GOTS']",False,False,False,19
+CLOTH-6887,Pants,Sweater,Cotton,Brand E,11.83,12352,114,"['Fair Trade', 'GOTS']",True,False,True,32
+CLOTH-8708,Pants,Jacket,Cotton,Brand A,4.66,11835,25,"['RWS', 'Fair Trade', 'GOTS', 'OEKO-TEX']",True,False,False,71
+CLOTH-5885,Pants,Jacket,Silk,Brand A,9.23,6039,155,"['GOTS', 'Fair Trade', 'OEKO-TEX', 'RWS']",True,False,True,64
+CLOTH-2225,Dress,Shirt,Denim,Brand D,7.41,2479,29,"['GOTS', 'OEKO-TEX', 'Fair Trade', 'RWS']",True,False,False,81
+CLOTH-1336,Dress,Jacket,Polyester,Brand E,12.83,7650,158,[],True,True,False,36
+CLOTH-2522,Sweater,Sweater,Wool,Brand E,9.2,3744,19,['Fair Trade'],False,False,False,66
+CLOTH-9172,Shirt,Dress,Polyester,Brand A,7.28,3010,170,['GOTS'],False,False,False,58
+CLOTH-5071,Pants,Dress,Cotton,Brand D,17.49,11785,124,['OEKO-TEX'],True,True,False,17
+CLOTH-4562,Pants,Shirt,Denim,Brand A,18.45,3815,195,[],True,False,False,29
+CLOTH-7273,Pants,Jacket,Cotton,Brand D,12.54,6220,107,[],True,True,True,47
+CLOTH-9239,Pants,Jacket,Wool,Brand A,9.6,12114,56,['Fair Trade'],True,True,False,50
+CLOTH-6628,Sweater,Pants,Silk,Brand E,14.49,13197,64,"['Fair Trade', 'RWS', 'OEKO-TEX']",False,False,False,33
+CLOTH-3901,Sweater,Shirt,Denim,Brand E,12.25,1854,137,[],False,False,False,52
+CLOTH-7211,Sweater,Jacket,Wool,Brand D,4.88,10976,143,"['Fair Trade', 'GOTS', 'OEKO-TEX']",False,True,True,63
+CLOTH-9633,Sweater,Shirt,Denim,Brand C,3.74,5010,142,[],False,True,True,75
+CLOTH-4473,Sweater,Shirt,Silk,Brand A,2.03,8674,169,"['RWS', 'OEKO-TEX', 'GOTS']",False,True,False,67
+CLOTH-6130,Dress,Shirt,Wool,Brand A,3.74,11471,88,"['OEKO-TEX', 'GOTS', 'RWS', 'Fair Trade']",False,False,False,64
+CLOTH-1358,Dress,Dress,Cotton,Brand E,14.77,5109,200,"['OEKO-TEX', 'RWS', 'Fair Trade', 'GOTS']",False,True,True,49
+CLOTH-8259,Shirt,Jacket,Cotton,Brand B,15.72,7377,26,"['OEKO-TEX', 'RWS', 'GOTS']",False,False,True,29
+CLOTH-8210,Jacket,Dress,Wool,Brand D,4.49,10568,171,"['OEKO-TEX', 'Fair Trade']",False,False,False,59
+CLOTH-7220,Sweater,Jacket,Polyester,Brand D,19.79,3548,54,"['Fair Trade', 'RWS', 'GOTS', 'OEKO-TEX']",True,False,False,36
+CLOTH-7825,Dress,Sweater,Denim,Brand B,9.24,14996,47,[],True,False,True,53
+CLOTH-8615,Pants,Shirt,Silk,Brand D,16.17,10029,192,"['OEKO-TEX', 'Fair Trade', 'GOTS']",False,False,False,15
+CLOTH-8602,Dress,Jacket,Silk,Brand E,13.21,2270,195,[],True,False,False,54
+CLOTH-6934,Shirt,Shirt,Denim,Brand E,5.2,8127,141,[],True,False,False,49
+CLOTH-7177,Dress,Pants,Silk,Brand C,3.45,9647,47,['Fair Trade'],False,False,False,71
+CLOTH-4554,Shirt,Shirt,Cotton,Brand D,18.68,12685,118,"['RWS', 'Fair Trade', 'GOTS', 'OEKO-TEX']",False,False,True,17
+CLOTH-4695,Sweater,Sweater,Wool,Brand E,19.54,8477,81,"['RWS', 'OEKO-TEX', 'GOTS', 'Fair Trade']",True,False,False,26
+CLOTH-8142,Jacket,Sweater,Polyester,Brand B,11.36,3398,132,"['Fair Trade', 'RWS', 'OEKO-TEX']",False,True,False,47
+CLOTH-1039,Shirt,Pants,Cotton,Brand A,3.33,1279,166,"['GOTS', 'Fair Trade', 'OEKO-TEX']",True,True,True,90
+CLOTH-4341,Pants,Dress,Cotton,Brand E,16.07,8292,20,"['OEKO-TEX', 'RWS', 'Fair Trade']",True,True,True,33
+CLOTH-3625,Sweater,Pants,Silk,Brand E,16.45,8934,34,"['RWS', 'Fair Trade', 'GOTS']",True,False,True,31
+CLOTH-4833,Jacket,Dress,Cotton,Brand E,13.06,11757,93,"['Fair Trade', 'GOTS', 'OEKO-TEX']",False,True,False,35
+CLOTH-4987,Sweater,Dress,Silk,Brand D,2.01,12314,58,"['OEKO-TEX', 'Fair Trade', 'GOTS']",False,False,True,64
+CLOTH-6142,Shirt,Sweater,Polyester,Brand E,17.59,2123,34,['Fair Trade'],True,True,False,50
+CLOTH-9891,Shirt,Sweater,Silk,Brand A,19.74,9578,199,['GOTS'],False,True,True,21
+CLOTH-4761,Sweater,Sweater,Polyester,Brand B,14.41,2665,21,"['RWS', 'GOTS', 'Fair Trade', 'OEKO-TEX']",False,True,True,67
+CLOTH-4655,Pants,Sweater,Silk,Brand C,18.6,6001,87,['GOTS'],True,True,True,36
+CLOTH-1686,Pants,Sweater,Denim,Brand D,3.31,13669,189,"['RWS', 'GOTS', 'OEKO-TEX', 'Fair Trade']",False,False,False,61
+CLOTH-9500,Dress,Pants,Wool,Brand E,18.72,4221,163,[],False,True,True,30
+CLOTH-9130,Sweater,Jacket,Silk,Brand B,17.78,8165,98,"['GOTS', 'OEKO-TEX', 'RWS']",True,True,True,28
+CLOTH-8485,Dress,Pants,Polyester,Brand D,4.8,11571,35,['GOTS'],True,False,False,68
+CLOTH-6899,Pants,Pants,Denim,Brand E,14.55,8745,59,['RWS'],True,False,True,39
+CLOTH-9771,Sweater,Dress,Polyester,Brand D,9.43,4646,172,[],True,False,False,59
+CLOTH-7413,Jacket,Dress,Denim,Brand C,3.92,3185,136,['Fair Trade'],False,True,True,76
+CLOTH-9849,Shirt,Shirt,Cotton,Brand A,2.54,5389,43,"['OEKO-TEX', 'GOTS']",True,False,True,85
+CLOTH-3713,Sweater,Shirt,Wool,Brand A,3.32,4588,165,"['OEKO-TEX', 'Fair Trade', 'RWS', 'GOTS']",False,True,False,78
+CLOTH-2393,Dress,Pants,Denim,Brand E,3.46,13671,101,"['RWS', 'OEKO-TEX', 'Fair Trade', 'GOTS']",True,False,False,63
+CLOTH-8433,Shirt,Jacket,Cotton,Brand E,13.33,6342,31,"['RWS', 'Fair Trade', 'GOTS', 'OEKO-TEX']",True,False,True,57
+CLOTH-6367,Pants,Pants,Denim,Brand A,14.08,1440,173,[],False,True,True,55
+CLOTH-6904,Pants,Dress,Cotton,Brand E,4.91,4000,86,"['RWS', 'GOTS']",False,True,True,80
+CLOTH-7973,Dress,Jacket,Polyester,Brand C,2.12,9132,184,['RWS'],False,False,False,63
+CLOTH-4700,Dress,Dress,Polyester,Brand E,11.62,11452,197,[],False,True,False,29
+CLOTH-8595,Sweater,Dress,Silk,Brand C,15.51,9048,121,[],False,True,True,20
+CLOTH-8851,Jacket,Sweater,Cotton,Brand B,13.09,6334,89,['Fair Trade'],False,False,False,46
+CLOTH-8265,Pants,Pants,Polyester,Brand A,19.0,8664,40,"['GOTS', 'OEKO-TEX', 'Fair Trade', 'RWS']",False,True,True,32
+CLOTH-6740,Jacket,Sweater,Polyester,Brand C,8.75,14083,143,['OEKO-TEX'],False,True,True,46
+CLOTH-8146,Dress,Sweater,Polyester,Brand A,4.36,4057,122,"['Fair Trade', 'GOTS', 'RWS']",True,True,False,79
+CLOTH-7046,Sweater,Shirt,Wool,Brand C,11.38,4916,84,"['OEKO-TEX', 'Fair Trade']",False,True,True,50
+CLOTH-4896,Shirt,Sweater,Silk,Brand E,11.76,10193,96,"['Fair Trade', 'GOTS']",False,False,True,33
+CLOTH-5323,Shirt,Jacket,Silk,Brand E,17.6,9956,101,"['GOTS', 'Fair Trade', 'OEKO-TEX']",True,False,False,22
+CLOTH-4624,Pants,Dress,Polyester,Brand E,5.43,8524,80,['GOTS'],False,True,True,54
+CLOTH-5380,Dress,Dress,Silk,Brand A,16.54,7337,197,['OEKO-TEX'],True,False,True,21
+CLOTH-2843,Jacket,Pants,Silk,Brand E,16.29,1923,39,"['Fair Trade', 'OEKO-TEX']",True,True,True,52
+CLOTH-7452,Pants,Shirt,Denim,Brand B,3.73,14636,42,[],False,False,False,65
+CLOTH-2720,Dress,Jacket,Wool,Brand C,4.76,7836,165,"['OEKO-TEX', 'Fair Trade', 'GOTS']",True,False,True,68
+CLOTH-9659,Pants,Sweater,Silk,Brand A,15.29,10780,133,"['GOTS', 'Fair Trade']",True,True,True,19
+CLOTH-2627,Shirt,Dress,Polyester,Brand C,15.61,3443,10,"['GOTS', 'RWS']",True,False,True,40
+CLOTH-1931,Dress,Sweater,Polyester,Brand E,10.14,4501,184,"['Fair Trade', 'OEKO-TEX', 'RWS', 'GOTS']",True,True,True,51
+CLOTH-8841,Dress,Shirt,Silk,Brand C,13.0,3126,93,[],False,False,False,45
+CLOTH-8591,Dress,Dress,Silk,Brand D,4.81,9310,82,"['Fair Trade', 'RWS', 'GOTS']",True,False,False,70
+CLOTH-1261,Pants,Pants,Polyester,Brand D,13.27,11201,137,"['RWS', 'Fair Trade']",False,False,False,29
+CLOTH-8126,Jacket,Jacket,Cotton,Brand E,16.14,8802,34,"['RWS', 'OEKO-TEX', 'Fair Trade']",True,True,True,33
+CLOTH-5381,Pants,Dress,Wool,Brand E,4.51,3402,77,"['GOTS', 'Fair Trade', 'RWS', 'OEKO-TEX']",True,True,True,84
+CLOTH-1032,Pants,Jacket,Polyester,Brand D,7.12,13741,142,[],False,True,False,44
+CLOTH-4804,Jacket,Shirt,Denim,Brand B,3.8,1588,77,"['RWS', 'GOTS', 'Fair Trade']",False,True,False,90
+CLOTH-6282,Dress,Shirt,Denim,Brand D,15.8,9760,150,[],True,True,True,22
+CLOTH-8523,Dress,Dress,Wool,Brand A,7.46,14455,71,"['GOTS', 'RWS', 'Fair Trade', 'OEKO-TEX']",True,False,True,52
+CLOTH-3152,Dress,Sweater,Silk,Brand C,19.87,1979,29,['OEKO-TEX'],False,True,True,49
+CLOTH-9083,Pants,Pants,Denim,Brand B,10.76,4104,71,['Fair Trade'],False,False,True,47
+CLOTH-2227,Sweater,Jacket,Cotton,Brand A,3.27,6903,158,"['RWS', 'Fair Trade', 'OEKO-TEX']",False,False,False,75
+CLOTH-2406,Jacket,Sweater,Wool,Brand C,18.75,2248,186,[],False,True,False,39
+CLOTH-6579,Shirt,Sweater,Polyester,Brand C,5.58,13697,26,[],False,False,False,50
+CLOTH-6133,Sweater,Dress,Cotton,Brand B,14.27,5024,142,['RWS'],False,False,False,43
+CLOTH-9639,Dress,Dress,Cotton,Brand B,17.63,8025,125,"['RWS', 'OEKO-TEX', 'GOTS']",True,False,True,23
+CLOTH-6205,Shirt,Jacket,Cotton,Brand D,6.48,9375,157,"['RWS', 'OEKO-TEX', 'Fair Trade']",True,True,True,55
+CLOTH-4873,Pants,Sweater,Cotton,Brand B,2.32,9296,51,"['OEKO-TEX', 'Fair Trade', 'GOTS']",True,True,False,72
+CLOTH-2687,Dress,Pants,Silk,Brand D,19.24,12622,72,"['Fair Trade', 'OEKO-TEX', 'GOTS']",False,True,False,20
+CLOTH-8857,Dress,Shirt,Cotton,Brand D,3.55,6836,55,[],True,False,False,77
+CLOTH-9551,Pants,Dress,Wool,Brand A,2.25,12512,14,"['RWS', 'GOTS', 'OEKO-TEX', 'Fair Trade']",True,True,False,73
+CLOTH-2582,Pants,Shirt,Polyester,Brand E,11.43,10847,105,['GOTS'],False,True,False,30
+CLOTH-8781,Pants,Sweater,Cotton,Brand B,16.25,10387,191,"['Fair Trade', 'GOTS', 'RWS', 'OEKO-TEX']",False,True,True,19
+CLOTH-7197,Shirt,Pants,Denim,Brand B,19.44,5146,37,['GOTS'],True,True,True,41
+CLOTH-6961,Sweater,Sweater,Denim,Brand A,16.72,10185,40,"['RWS', 'OEKO-TEX']",False,False,False,22
+CLOTH-8917,Shirt,Shirt,Cotton,Brand B,2.77,14726,123,[],False,True,False,59
+CLOTH-5004,Sweater,Dress,Wool,Brand E,19.77,7466,138,['GOTS'],False,True,False,20
+CLOTH-1114,Jacket,Dress,Denim,Brand C,9.6,11713,67,"['RWS', 'GOTS']",True,False,True,50
+CLOTH-4659,Dress,Sweater,Wool,Brand B,2.71,12558,168,"['Fair Trade', 'OEKO-TEX']",False,False,False,59
+CLOTH-8141,Shirt,Sweater,Silk,Brand C,7.69,10227,119,['Fair Trade'],False,True,True,46
+CLOTH-3260,Jacket,Pants,Polyester,Brand D,5.13,10177,14,"['OEKO-TEX', 'GOTS', 'RWS']",True,True,False,57
